@@ -226,6 +226,20 @@ img{
     transform: scale(1);
 }
 
+.contenedor-trabj{
+    width: 100%;
+    justify-content: space-evenly;
+    margin: auto;
+
+}
+
+.contenedor-trabj .img-trab{
+    width: 19.5%;
+    justify-content:center;
+    object-fit: cover;
+    
+
+}
 footer{
     padding: 60px 0 30px 0;
     margin: auto;
