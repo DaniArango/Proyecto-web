@@ -48,7 +48,7 @@ h4{
 /* Header */
 .header{
      width: 100%;
-     height: 600px;
+     height: 700px;
      background-image: url(../img/signos\ portada2.jpg);
      opacity: 80%;
      background-size: 120%;
@@ -152,15 +152,6 @@ flex-direction: column;
     
 
 
-.img-fondo{
-    background-color: rgb(255, 255, 255);
-    width: 70%;
-    border: 3px solid black;
-    border-style: outset;
-    border-radius: 50px 50px 50px 50px ;
-    padding: 20px;
-    margin: 5% 13% 15% 15%
-}
 
 
 
