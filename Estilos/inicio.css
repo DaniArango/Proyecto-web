@@ -321,9 +321,7 @@ h2{
     }
 
     .img-fondo{
-    background-color: rgb(9, 14, 31);
-    width: 90%;
-    border: 3px solid black;
+
     border-style: outset;
     border-radius: 50px 50px 50px 50px ;
     padding: 20px;
@@ -375,9 +373,8 @@ footer{
     }
 
     .img-fondo{
-    background-color: rgb(180, 220, 236);
-    width: 90%;
-    border: 3px solid black;
+    
+  
     border-style: outset;
     border-radius: 50px 50px 50px 50px ;
     padding: 20px;
