@@ -1,9 +1,9 @@
-#Página personal, Signos del Zodiaco
+#Página personal, Signos del Zodiaco#
 
 La pagina se encuentra fragmentada en 16 partes, cada una de ellas, con información valiosa para el usuario.
 Todos los efectos de la página, fueron realizados, por medio de HTML y CSS
 
-##Comenzando
+##Comenzando##
 
 Tenemos nuestra página de inicio, donde se podrá leer sobre el significado de los signos zodiacales.
 
@@ -20,7 +20,7 @@ Contamos también, con la parte dedicada a la carta astral, la cual sirve para s
 
 Encontramos también una página, dedicada a la sinastría de los signos, lo cual no es otra cosa distinta a ¿congeniaríamos según nuestro signo?
 
-###Por ultimo 
+###Por ultimo ###
 
 Pero no menos importante, encontramos la biografía de esta querida autora.
 
